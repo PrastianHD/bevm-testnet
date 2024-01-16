@@ -31,10 +31,12 @@ docker ps
 docker ps
 ```
 
+```
 docker logs -f YOUR-CONTAINER-ID
 ```
 
 OPTIONAL !!
+
 ```
 docker restart YOUR-CONTAINER-ID
 ```
