@@ -28,10 +28,6 @@ docker ps
 ```
 
 ```
-docker ps
-```
-
-```
 docker logs -f YOUR-CONTAINER-ID
 ```
 
